@@ -7,4 +7,4 @@ focused on Data Analytics using Pandas, NumPy, and Visualization.
 
 ## Contents
 - Day 01: Python Basics
-- Day 02: Pandas & CSV Analysis
+- Day 01: Pandas & CSV Analysis
